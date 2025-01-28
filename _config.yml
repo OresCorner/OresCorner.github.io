@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Ore's Portfolio"
 title_separator          : "-"
 name                     : "Ore Oyede"
-description              : &description "personal description"
+description              : Ore Oyede's personal portfolio documenting her software engineering projects and education
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "OresCorner/OresCorner.github.io"

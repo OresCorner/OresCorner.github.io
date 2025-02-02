@@ -1,10 +1,10 @@
 {
-  "name": "academic-pages",
+  "name": "Ores Portfolio",
   "version": "0.8.1.1",
   "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/academicpages/academicpages.github.io"
+    "url": "https://orescorner.github.io/cs.uh.edu
   },
   "keywords": [
     "jekyll",
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/academicpages/academicpages.github.io/issues"
   },
-  "homepage": "https://github.com/academicpages/academicpages.github.io",
+  "homepage": "https://orescorner.github.io/cs.uh.edu",
   "engines": {
     "node": ">= 0.10.0"
   },

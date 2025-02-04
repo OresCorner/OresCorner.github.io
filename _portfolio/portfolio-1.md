@@ -1,5 +1,5 @@
 ---
-title: "Student Web Developer"
+title: "First Gen Student Website"
 excerpt: "Responsible for using HTML, CSS, and Javascript to edit University websites<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
